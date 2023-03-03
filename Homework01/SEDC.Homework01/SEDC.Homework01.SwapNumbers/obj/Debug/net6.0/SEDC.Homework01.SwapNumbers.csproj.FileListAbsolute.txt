@@ -1,0 +1,15 @@
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework01\SEDC.Homework01\SEDC.Homework01.SwapNumbers\bin\Debug\net6.0\SEDC.Homework01.SwapNumbers.exe
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework01\SEDC.Homework01\SEDC.Homework01.SwapNumbers\bin\Debug\net6.0\SEDC.Homework01.SwapNumbers.deps.json
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework01\SEDC.Homework01\SEDC.Homework01.SwapNumbers\bin\Debug\net6.0\SEDC.Homework01.SwapNumbers.runtimeconfig.json
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework01\SEDC.Homework01\SEDC.Homework01.SwapNumbers\bin\Debug\net6.0\SEDC.Homework01.SwapNumbers.dll
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework01\SEDC.Homework01\SEDC.Homework01.SwapNumbers\bin\Debug\net6.0\SEDC.Homework01.SwapNumbers.pdb
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework01\SEDC.Homework01\SEDC.Homework01.SwapNumbers\obj\Debug\net6.0\SEDC.Homework01.SwapNumbers.csproj.AssemblyReference.cache
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework01\SEDC.Homework01\SEDC.Homework01.SwapNumbers\obj\Debug\net6.0\SEDC.Homework01.SwapNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework01\SEDC.Homework01\SEDC.Homework01.SwapNumbers\obj\Debug\net6.0\SEDC.Homework01.SwapNumbers.AssemblyInfoInputs.cache
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework01\SEDC.Homework01\SEDC.Homework01.SwapNumbers\obj\Debug\net6.0\SEDC.Homework01.SwapNumbers.AssemblyInfo.cs
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework01\SEDC.Homework01\SEDC.Homework01.SwapNumbers\obj\Debug\net6.0\SEDC.Homework01.SwapNumbers.csproj.CoreCompileInputs.cache
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework01\SEDC.Homework01\SEDC.Homework01.SwapNumbers\obj\Debug\net6.0\SEDC.Homework01.SwapNumbers.dll
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework01\SEDC.Homework01\SEDC.Homework01.SwapNumbers\obj\Debug\net6.0\refint\SEDC.Homework01.SwapNumbers.dll
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework01\SEDC.Homework01\SEDC.Homework01.SwapNumbers\obj\Debug\net6.0\SEDC.Homework01.SwapNumbers.pdb
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework01\SEDC.Homework01\SEDC.Homework01.SwapNumbers\obj\Debug\net6.0\SEDC.Homework01.SwapNumbers.genruntimeconfig.cache
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework01\SEDC.Homework01\SEDC.Homework01.SwapNumbers\obj\Debug\net6.0\ref\SEDC.Homework01.SwapNumbers.dll
