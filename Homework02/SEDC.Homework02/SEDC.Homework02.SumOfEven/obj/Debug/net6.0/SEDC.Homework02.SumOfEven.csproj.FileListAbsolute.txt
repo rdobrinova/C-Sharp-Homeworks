@@ -1,0 +1,15 @@
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework02\SEDC.Homework02\SEDC.Homework02.SumOfEven\bin\Debug\net6.0\SEDC.Homework02.SumOfEven.exe
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework02\SEDC.Homework02\SEDC.Homework02.SumOfEven\bin\Debug\net6.0\SEDC.Homework02.SumOfEven.deps.json
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework02\SEDC.Homework02\SEDC.Homework02.SumOfEven\bin\Debug\net6.0\SEDC.Homework02.SumOfEven.runtimeconfig.json
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework02\SEDC.Homework02\SEDC.Homework02.SumOfEven\bin\Debug\net6.0\SEDC.Homework02.SumOfEven.dll
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework02\SEDC.Homework02\SEDC.Homework02.SumOfEven\bin\Debug\net6.0\SEDC.Homework02.SumOfEven.pdb
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework02\SEDC.Homework02\SEDC.Homework02.SumOfEven\obj\Debug\net6.0\SEDC.Homework02.SumOfEven.csproj.AssemblyReference.cache
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework02\SEDC.Homework02\SEDC.Homework02.SumOfEven\obj\Debug\net6.0\SEDC.Homework02.SumOfEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework02\SEDC.Homework02\SEDC.Homework02.SumOfEven\obj\Debug\net6.0\SEDC.Homework02.SumOfEven.AssemblyInfoInputs.cache
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework02\SEDC.Homework02\SEDC.Homework02.SumOfEven\obj\Debug\net6.0\SEDC.Homework02.SumOfEven.AssemblyInfo.cs
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework02\SEDC.Homework02\SEDC.Homework02.SumOfEven\obj\Debug\net6.0\SEDC.Homework02.SumOfEven.csproj.CoreCompileInputs.cache
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework02\SEDC.Homework02\SEDC.Homework02.SumOfEven\obj\Debug\net6.0\SEDC.Homework02.SumOfEven.dll
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework02\SEDC.Homework02\SEDC.Homework02.SumOfEven\obj\Debug\net6.0\refint\SEDC.Homework02.SumOfEven.dll
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework02\SEDC.Homework02\SEDC.Homework02.SumOfEven\obj\Debug\net6.0\SEDC.Homework02.SumOfEven.pdb
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework02\SEDC.Homework02\SEDC.Homework02.SumOfEven\obj\Debug\net6.0\SEDC.Homework02.SumOfEven.genruntimeconfig.cache
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework02\SEDC.Homework02\SEDC.Homework02.SumOfEven\obj\Debug\net6.0\ref\SEDC.Homework02.SumOfEven.dll

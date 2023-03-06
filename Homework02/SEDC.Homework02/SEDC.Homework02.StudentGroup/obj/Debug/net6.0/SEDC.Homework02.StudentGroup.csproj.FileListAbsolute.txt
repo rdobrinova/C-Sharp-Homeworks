@@ -1,0 +1,15 @@
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework02\SEDC.Homework02\SEDC.Homework02.StudentGroup\bin\Debug\net6.0\SEDC.Homework02.StudentGroup.exe
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework02\SEDC.Homework02\SEDC.Homework02.StudentGroup\bin\Debug\net6.0\SEDC.Homework02.StudentGroup.deps.json
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework02\SEDC.Homework02\SEDC.Homework02.StudentGroup\bin\Debug\net6.0\SEDC.Homework02.StudentGroup.runtimeconfig.json
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework02\SEDC.Homework02\SEDC.Homework02.StudentGroup\bin\Debug\net6.0\SEDC.Homework02.StudentGroup.dll
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework02\SEDC.Homework02\SEDC.Homework02.StudentGroup\bin\Debug\net6.0\SEDC.Homework02.StudentGroup.pdb
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework02\SEDC.Homework02\SEDC.Homework02.StudentGroup\obj\Debug\net6.0\SEDC.Homework02.StudentGroup.csproj.AssemblyReference.cache
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework02\SEDC.Homework02\SEDC.Homework02.StudentGroup\obj\Debug\net6.0\SEDC.Homework02.StudentGroup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework02\SEDC.Homework02\SEDC.Homework02.StudentGroup\obj\Debug\net6.0\SEDC.Homework02.StudentGroup.AssemblyInfoInputs.cache
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework02\SEDC.Homework02\SEDC.Homework02.StudentGroup\obj\Debug\net6.0\SEDC.Homework02.StudentGroup.AssemblyInfo.cs
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework02\SEDC.Homework02\SEDC.Homework02.StudentGroup\obj\Debug\net6.0\SEDC.Homework02.StudentGroup.csproj.CoreCompileInputs.cache
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework02\SEDC.Homework02\SEDC.Homework02.StudentGroup\obj\Debug\net6.0\SEDC.Homework02.StudentGroup.dll
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework02\SEDC.Homework02\SEDC.Homework02.StudentGroup\obj\Debug\net6.0\refint\SEDC.Homework02.StudentGroup.dll
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework02\SEDC.Homework02\SEDC.Homework02.StudentGroup\obj\Debug\net6.0\SEDC.Homework02.StudentGroup.pdb
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework02\SEDC.Homework02\SEDC.Homework02.StudentGroup\obj\Debug\net6.0\SEDC.Homework02.StudentGroup.genruntimeconfig.cache
+C:\Users\rozad\OneDrive\Desktop\SEDC Homework\C# Homework\Homework02\SEDC.Homework02\SEDC.Homework02.StudentGroup\obj\Debug\net6.0\ref\SEDC.Homework02.StudentGroup.dll
